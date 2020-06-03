@@ -1,0 +1,11 @@
+C:\Users\Senai132\Desktop\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.exe
+C:\Users\Senai132\Desktop\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.deps.json
+C:\Users\Senai132\Desktop\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.runtimeconfig.json
+C:\Users\Senai132\Desktop\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.runtimeconfig.dev.json
+C:\Users\Senai132\Desktop\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.dll
+C:\Users\Senai132\Desktop\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.pdb
+C:\Users\Senai132\Desktop\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.csprojAssemblyReference.cache
+C:\Users\Senai132\Desktop\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.AssemblyInfoInputs.cache
+C:\Users\Senai132\Desktop\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.AssemblyInfo.cs
+C:\Users\Senai132\Desktop\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.dll
+C:\Users\Senai132\Desktop\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.pdb
